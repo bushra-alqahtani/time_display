@@ -1,0 +1,28 @@
+*{
+    background-color: lemonchiffon;
+}
+.maindiv{
+    
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translate(-50%, -50%);
+}
+.container{
+    border: 1px solid black;
+    box-shadow: 10px 10px black;
+    margin: 20px  ;
+    padding: 10px ;
+    background-color: white;
+    text-align: center;
+    width: 600px;
+    height: auto;
+ 
+}
+
+h1 , h3{
+
+    background-color: white;
+    
+}
+
